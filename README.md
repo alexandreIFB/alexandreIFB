@@ -8,7 +8,7 @@
 
 Meu nome é Alexandre, atualmente moro em Brasília e curso Ciência da Computação no Instituto Federal de Brasília.
 
-Passei por um estágio recente onde foi muito importante para meu aprendizado, conseguir atuar e ter uma certa liberdade em projetos backend node.js, agora estou buscando me aprofundar cada vez mais nessa área para conseguir minha primeira vaga JR.
+Passei por um estágio recente onde foi muito importante para meu aprendizado, conseguir atuar e ter uma certa liberdade em projetos backend node.js, agora estou me aprofundando cada vez mais nessa área para conseguir minha primeira vaga JR.
 
 ## Informação detalhada
 
