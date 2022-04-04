@@ -4,6 +4,10 @@
     </a>
 </div>
 
+## Contato
+
+abreuxandi2010@gmail.com
+
 ## Olá
 
 Meu nome é Alexandre, atualmente moro em Brasília e curso Ciência da Computação no Instituto Federal de Brasília.
