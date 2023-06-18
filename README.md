@@ -3,28 +3,34 @@
     <a target='_blank' href="https://www.linkedin.com/in/alexandre-abreu-132421191/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a target='_blank' href="https://api.whatsapp.com/send?phone=5561991935209">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-    </a>
 </div>
 
 abreuxandi2010@gmail.com
 
-## Olá
+## Sobre min
 
-Meu nome é Alexandre, atualmente moro em Brasília e curso Ciência da Computação no Instituto Federal de Brasília.
+Desde o início da minha jornada acadêmica, sempre fui impulsionado por um profundo interesse pela 
+tecnologia e suas aplicações práticas. Inspirado por minha tia, que me auxiliava com sua expertise na área, 
+despertei uma paixão pela computação que moldou minha trajetória educacional e profissional.
 
-Passei por um estágio recente onde foi muito importante para meu aprendizado, conseguir atuar e ter uma certa liberdade em projetos backend node.js, agora estou me aprofundando cada vez mais nessa área para conseguir minha primeira vaga JR.
+Durante o ensino médio, a matemática se tornou minha matéria favorita. Eu me destacava na resolução de 
+problemas desafiadores, incluindo questões do ENEM que exigiam um raciocínio lógico apurado. Essas 
+experiências fortaleceram minha habilidade de analisar problemas de forma estruturada e encontrar 
+soluções eficientes.
+
+Motivado por minha paixão pela matemática e tecnologia, optei por ingressar no curso de Ciência da 
+Computação no renomado Instituto Federal de Brasília. Essa escolha se mostrou perfeita para mim, pois uniu 
+minhas duas áreas de interesse e me proporcionou um ambiente propício para o crescimento intelectual e 
+profissional.
+
+Desenvolvi uma mentalidade analítica, perseverança e uma paixão por aprender constantemente. Estou 
+determinado a aplicar meu conhecimento e habilidades para contribuir de forma significativa para o setor 
+de tecnologia, buscando soluções inovadoras e eficientes para os desafios enfrentados atualmente.
 
 ## Informação detalhada
 
 * **Nome**: Alexandre Abreu
-* **Idade**: 21
-* **Moro em**: Brasília - DF, Brazil
-* **Stack**: NODE.JS - SQL - MONGOOSE - TYPESCRIPT - NEST.JS
-* **Faculdade**: Instituto Federal de Brasília - Ciência da Computação
-
-## Curiosidades
-
-* Minha matéria favorita na faculdade foi "Lógica Matemática" e “Algoritmos e Programação de Computadores”, ali tive meu primeiro contato em como devemos pensar ao programar um computador e também vários problemas lógicos para serem resolvidos e para mim foram essenciais para conseguir desenvolver uma linha de raciocínio ao se deparar com problemas complicados.
-* Já pensei em cursar Matemática pois era a única matéria que eu tinha gostado de estudar no Ensino Médio.
+* **Experiencia**: 1 ano e 6 meses.
+* **Idade**: 22
+* **Stack**:  C#.NET - JS && TYPESCRIPT - NODE.JS && NEST.JS - React && React Native.
+* **Faculdade**: Instituto Federal de Brasília - Ciência da Computação.
